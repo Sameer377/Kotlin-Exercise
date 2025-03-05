@@ -94,12 +94,4 @@
 
 ---
 
-### **Extra Tips**
-✅ Use **JetBrains’ Kotlin Playground** for quick practice  
-✅ Convert Java code to Kotlin to understand syntax differences  
-✅ Read **Kotlin docs** and **Kotlin Koans** (JetBrains’ official exercises)  
-✅ Keep practicing **small projects and real-world examples**  
 
----
-
-If you need help with a specific topic, let me know! 🚀
